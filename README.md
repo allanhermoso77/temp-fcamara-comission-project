@@ -17,7 +17,7 @@ Backend:
 - Add custom validation attributes if necessary
 - Add dependency injection for better testability
 - Separation of controller logic from business logic (Service Layer)
-- Getting configuration rate seetings from appsettings.json
+- Getting configuration rate settings from appsettings.json
 
 # Technical Task:
 
