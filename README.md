@@ -4,14 +4,20 @@
 Frontend:
 
 - Improve the UI/UX Layout with responsive design
+  
+<img width="904" height="547" alt="newfrontend" src="https://github.com/user-attachments/assets/039dd287-cecb-4934-a044-db5179f3cd9b" />
 
 Backend:
 
-- Add unit tests for the calculation logic
+- Add unit tests for the calculation logic (Controller and Services)
+
+<img width="2507" height="715" alt="unittests" src="https://github.com/user-attachments/assets/26b09575-2a16-4fcd-a31c-f1b2f7549775" />
+
 - Add error handling for invalid inputs
 - Add custom validation attributes if necessary
 - Add dependency injection for better testability
-- Separate controller logic from business logic (Service Layer)
+- Separation of controller logic from business logic (Service Layer)
+- Getting configuration rate seetings from appsettings.json
 
 # Technical Task:
 
